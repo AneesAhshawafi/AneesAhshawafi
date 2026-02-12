@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anis Amer
 
-### 🚀 IT Engineering Student @ Taiz University | Full-Stack Developer | Founder of CodyVex
+###  IT Engineering Student @ Taiz University | Full-Stack Developer | Founder of CodyVex
 
 <p align="center">
   <img src="https://img.shields.io/badge/University-Taiz_University-blue?style=for-the-badge&logo=academia" />
