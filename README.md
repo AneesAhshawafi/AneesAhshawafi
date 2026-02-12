@@ -1,69 +1,62 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Anis%20Amer&fontSize=70&animation=fadeIn&fontAlignY=35&theme=dark" />
-</div>
+# 👋 Hi, I'm Anis Amer
 
-<div align="center">
-  <h3> 🚀 IT Engineering Student @ Taiz University | Laravel Expert | Founder of CodyVex </h3>
+### 🚀 IT Engineering Student @ Taiz University | Full-Stack Developer | Founder of CodyVex
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/University-Taiz_University-blue?style=for-the-badge&logo=academia" />
+  <img src="https://img.shields.io/badge/Focus-Laravel_%26_Flutter-red?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/Telegram-CodyVex-2CA5E0?style=for-the-badge&logo=telegram" />
+</p>
 
 ---
 
 ### ⚡ Quick Bio
 
-- 🎓 Currently studying **IT Engineering** at **Taiz University**.
-- 🛠️ Building the future with **Advanced Laravel 12** and **Mobile Automation**.
-- 📡 Researching **Wireless Communications** & **Signal Fading**.
-- 📺 Leading the **CodyVex** community on Telegram & YouTube.
-- 🦈 Proud **Pull Shark** badge holder 🏆.
+- 🎓 **Academic:** IT Engineering Student at **Taiz University**, Yemen.
+- 🏫 **Current Focus:** Mastering **Advanced Laravel 12**, **Flutter**, and **Workflow & Automation**.
+- 📺 **Media:** Founder of **CodyVex**, sharing technical information on Telegram & YouTube.
+- 🦈 **Badge:** Proud **Pull Shark** holder 🏆.
 
 ---
 
-### 💻 Tech Stack Ecosystem
+### 🛠 Tech Stack Ecosystem
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,cs,java,py,js,flutter,android,mysql,oracle,sqlserver,figma,xd,git,html,css" />
-</div>
+</p>
 
 ---
-
 ### 📊 Engineering Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AneesAhshawafi&show_icons=true&theme=transparent&title_color=3182ce&text_color=a0aec0&icon_color=3182ce&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneesAhshawafi&layout=compact&theme=transparent&title_color=3182ce&text_color=a0aec0&hide_border=true" width="45%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AneesAhshawafi&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Language-PHP_(Laravel)-777BB4?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/Secondary_Skills-C%23_%26_Java-239120?style=for-the-badge&logo=c-sharp" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AneesAhshawafi&theme=transparent&hide_border=true&stroke=3182ce&ring=3182ce&fire=3182ce&currStreakLabel=3182ce" />
-</div>
+---
+
+### 🏆 Contributions & Activity
+<p align="center">
+  <img src="https://img.shields.io/badge/Current_Focus-Advanced_Laravel_12-FF2D20?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/Mobile_Development-Flutter-02569B?style=for-the-badge&logo=flutter" />
+</p>
 
 ---
 
 ### 🤝 Connect with the Creator
 
-<div align="center">
+<p align="center">
   <a href="https://t.me/CodyVex">
-    <img src="https://img.shields.io/badge/CodyVex_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://youtube.com/@CodyVex">
-    <img src="https://img.shields.io/badge/CodyVex_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:anisamer300@gmail.com">
-    <img src="https://img.shields.io/badge/Direct_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Engineering%20is%20not%20just%20about%20building%20things,%20it's%20about%20solving%20problems%20elegantly." />
 </p>
