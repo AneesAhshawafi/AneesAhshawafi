@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Anis Amer</h1>
 <h3 align="center">IT Engineering Student at Taiz University | Full-Stack Developer | Content Creator at CodyVex</h3>
 
