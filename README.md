@@ -47,7 +47,7 @@
 
 ---
 
-### 🤝 Connect with the Creator
+### 🤝 Connect me
 
 <p align="center">
   <a href="https://t.me/CodyVex">
