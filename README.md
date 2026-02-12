@@ -12,8 +12,6 @@
 ### 🚀 About Me
 * 🎓 **Academic:** IT Engineering Student at **Taiz University**, Yemen.
 * 🏫 **Current Focus:** Mastering **Advanced Laravel 12**, **Flutter**, and **Automation**.
-* 💻 **Experience:** Built a Smart Table Generation System using **C# & Entity Framework**.
-* 📡 **Research:** Interested in Mobile & Wireless Communications (**Signal Fading**).
 * 📺 **Media:** Founder of **CodyVex**, sharing technical projects and insights on Telegram and YouTube.
 
 ---
